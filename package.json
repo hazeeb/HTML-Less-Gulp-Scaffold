@@ -1,0 +1,19 @@
+{
+  "name": "designbids",
+  "version": "1.0.0",
+  "description": "new ui for designbids website",
+  "main": "gulp.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "hasi",
+  "license": "ISC"
+}
